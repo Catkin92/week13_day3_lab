@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0118f7e-c811-4705-9a7a-3f4f49fcb97c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/models/Distillery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/models/Distillery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/models/Whisky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/models/Whisky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/DistilleryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/DistilleryController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,21 +121,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom" timestamp="1579708154349">
+    <state width="1238" height="216" key="GridCell.Tab.0.bottom" timestamp="1579708556148">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579708154349" />
-    <state width="1238" height="216" key="GridCell.Tab.0.center" timestamp="1579708154346">
+    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579708556148" />
+    <state width="1238" height="216" key="GridCell.Tab.0.center" timestamp="1579708556146">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579708154346" />
-    <state width="1238" height="216" key="GridCell.Tab.0.left" timestamp="1579708154344">
+    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579708556146" />
+    <state width="1238" height="216" key="GridCell.Tab.0.left" timestamp="1579708556145">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579708154344" />
-    <state width="1238" height="216" key="GridCell.Tab.0.right" timestamp="1579708154348">
+    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579708556145" />
+    <state width="1238" height="216" key="GridCell.Tab.0.right" timestamp="1579708556147">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579708154348" />
+    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579708556147" />
   </component>
 </project>
