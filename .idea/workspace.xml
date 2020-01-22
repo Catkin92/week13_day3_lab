@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0118f7e-c811-4705-9a7a-3f4f49fcb97c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.WhiskyTrackerApplicationTests.findWhiskiesByDistilleryRegion">
+  <component name="RunManager" selected="Application.WhiskyTrackerApplication">
     <configuration name="WhiskyTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplication" />
       <module name="WhiskyTracker" />
@@ -104,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findWhiskiesByDistilleryRegion" />
         <item itemvalue="Application.WhiskyTrackerApplication" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findWhiskiesByDistilleryRegion" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findWhiskiesByDistilleryIdAndAge" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findDistilleriesByRegion" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findWhiskiesByYear" />
@@ -138,21 +138,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom" timestamp="1579709347773">
+    <state width="1238" height="216" key="GridCell.Tab.0.bottom" timestamp="1579709576645">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579709347773" />
-    <state width="1238" height="216" key="GridCell.Tab.0.center" timestamp="1579709347771">
+    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579709576645" />
+    <state width="1238" height="216" key="GridCell.Tab.0.center" timestamp="1579709576643">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579709347771" />
-    <state width="1238" height="216" key="GridCell.Tab.0.left" timestamp="1579709347770">
+    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579709576643" />
+    <state width="1238" height="216" key="GridCell.Tab.0.left" timestamp="1579709576641">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579709347770" />
-    <state width="1238" height="216" key="GridCell.Tab.0.right" timestamp="1579709347772">
+    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579709576641" />
+    <state width="1238" height="216" key="GridCell.Tab.0.right" timestamp="1579709576644">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579709347772" />
+    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579709576644" />
   </component>
 </project>
