@@ -25,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.WhiskyTrackerApplicationTests.findDistilleriesByWhiskiesAge">
+  <component name="RunManager" selected="Application.WhiskyTrackerApplication">
     <configuration name="WhiskyTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplication" />
       <module name="WhiskyTracker" />
@@ -105,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findDistilleriesByWhiskiesAge" />
         <item itemvalue="Application.WhiskyTrackerApplication" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findDistilleriesByWhiskiesAge" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findWhiskiesByDistilleryRegion" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findWhiskiesByDistilleryIdAndAge" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findDistilleriesByRegion" />
@@ -139,21 +139,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom" timestamp="1579709621719">
+    <state width="1238" height="216" key="GridCell.Tab.0.bottom" timestamp="1579710411455">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579709621719" />
-    <state width="1238" height="216" key="GridCell.Tab.0.center" timestamp="1579709621718">
+    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579710411455" />
+    <state width="1238" height="216" key="GridCell.Tab.0.center" timestamp="1579710411452">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579709621718" />
-    <state width="1238" height="216" key="GridCell.Tab.0.left" timestamp="1579709621717">
+    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579710411452" />
+    <state width="1238" height="216" key="GridCell.Tab.0.left" timestamp="1579710411451">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579709621717" />
-    <state width="1238" height="216" key="GridCell.Tab.0.right" timestamp="1579709621719">
+    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579710411451" />
+    <state width="1238" height="216" key="GridCell.Tab.0.right" timestamp="1579710411454">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579709621719" />
+    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579710411454" />
   </component>
 </project>
